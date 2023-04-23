@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4158233be2f0c9d4c928b32bff8ecf18
+timeCreated: 1532188847
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gameobject: {fileID: 1055092421498186, guid: 5c960dbfd5425df40ab90b3e01afe4c2,
+      type: 2}
+  - spawnpoint: {fileID: 1361373464700564, guid: 6ccabb195d10e5c4bb5efa14753eaeca,
+      type: 2}
+  - generation: {instanceID: 0}
+  - bestdistence: {instanceID: 0}
+  - bestgene: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
